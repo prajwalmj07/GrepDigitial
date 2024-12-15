@@ -1,0 +1,12 @@
+{
+    "voltage": "Volts",
+    "current": "Ampere",
+    "power": {
+        "KW": "kW",
+        "Kvar": "kVar",
+        "KVA": "kVA",
+        "PF": "%"
+    },
+    "energy": "kWh",
+    "frequency": "Hz"
+}
